@@ -36,7 +36,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you find a security vulnerability in this project, please report it by sending an email to **[your-email@example.com]**. Please do not use the GitHub issues tracker for security-related issues.
+If you find a security vulnerability in this project, please report it by sending an email to **[willboyd525@gmail.com]**. Please do not use the GitHub issues tracker for security-related issues.
 
 ### Process
 - You will receive a response within **48 hours**.
