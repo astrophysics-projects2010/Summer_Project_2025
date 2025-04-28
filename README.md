@@ -18,4 +18,4 @@ This repository contains all the work I will be doing over the summer of 2025 as
 - `Gravity_Simulator/` - Contains all the files related to simulating gravity between planets.
 - `Lightcurve_Analysis/` - Includes code and analysis of Kepler and TESS light curves.(yuh if i get to it)
   
-( this entire project is going to be self educated and i will use ai and my older sisters college physics book to learn more about this subject) 
+( this entire project is going to be self educated and i will use many different tools to educate myseslf such as AI, a college text book I obtained from my odler sister, youtube, nasa, ect...) 
