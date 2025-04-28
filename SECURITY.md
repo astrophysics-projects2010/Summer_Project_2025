@@ -40,8 +40,8 @@ If you find a security vulnerability in this project, please report it by sendin
 
 ### Process
 - You will receive a response within **48 hours**.
-- We will attempt to resolve the issue as quickly as possible.
-- Once the issue is resolved, we will release a patch or a fix as soon as possible and update the versions accordingly.
+- I will attempt to resolve the issue as quickly as possible.
+- Once the issue is resolved, I will release a patch or a fix as soon as possible and update the versions accordingly.
 
 ### Accepted Vulnerability Types
 - Code injection vulnerabilities (e.g., SQL Injection)
@@ -57,7 +57,7 @@ Please include as much detail as possible, including:
 - Any known security risks
 - A patch or solution (if you have one)
 
-If the vulnerability is accepted, we will issue a patch and update the project accordingly. If declined, you will be notified with an explanation.
+If the vulnerability is accepted, I will issue a patch and update the project accordingly. If declined, you will be notified with an explanation.
 
 Thank you for helping improve the security of this project!
 
