@@ -35,3 +35,17 @@
 
 ### Goals For Tomorrow:
 - Continue learning Python Basics
+
+
+---
+
+
+## May 1, 2025
+### Todays Goal:
+- Continue my education in python basics
+
+### What I Did Today
+- I decided to change gears from my previous goal of making a planet sun orbit simulator. This is because I will eventually make one but it most likely will not be this summer. This is becasue instead of trying to rush through learning all of python so I can make one project and be done with it seems kind of fake to me. I want to have a deep understanding of this language becasue it will benefit me once I become an astrophysicist. So my goal for this summer alone is to completely learn python. well maybe not all of python but at least a good chunk of it. I will make mini projects here and there throughout my learning process and I will post them here on github. my goal for next school year is to get really good with physics. I am taking physics honors this upcoming school year as well as algebra 2 honors. I plan to take advanced placement physics in my junior year of highschool or to switch from physics honors to advanced placement physics as It will benefit my personal plans of projects I may want to complete in the future and I wont have to self learn everything. Anyways thats what I did today, as well as research better programs for learning pythons.
+
+### Goals Fort Tomorrow:
+- Continue learning Python
