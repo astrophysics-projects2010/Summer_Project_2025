@@ -1,4 +1,4 @@
-# Journal - Week 1 (April 28 - May 5, 2025)
+# Journal - Week 1 (April 28 - May 4, 2025)
 
 ## April 29, 2025
 
