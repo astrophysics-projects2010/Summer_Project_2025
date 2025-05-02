@@ -59,4 +59,22 @@
 - Learn some more python
 
 ### What I Did Today
-- 
+- Not much was done. I wasn't very productive as it is a friday but that is no excuse.
+- This Brocode guy on Youtube is perfect and is litterally helping me so much with learning I love his course he has on Python if anyone reading this plans to learn Python I highly reccomend Brocode
+- I did a solid amount of practice on some more data types getting that all engrained into my head
+
+### Challenges
+- I struggled with getting some good coding time becasue I was struggling with concentration I don't know why though because I sat in my chair and listened the whole time but I had to rewatch the same video like 5 times to get it into my head for good.
+
+### Goals For Tomorrow:
+- Continue learning Python
+- I want to get a solid two hours in becasue its the weekend
+- study for my ap exam maybe idk ap human is so boring
+
+
+---
+
+
+
+
+
