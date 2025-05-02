@@ -57,7 +57,6 @@
 ## May 2, 2025
 ### Todays Goal: 
 - Learn some more python
-- Find payed program (online or in person) that will help me learn python easier
 
 ### What I Did Today
 - 
